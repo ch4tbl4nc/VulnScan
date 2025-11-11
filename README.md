@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 - GitHub: [0xchatblanc](https://github.com/0xchatblanc)
-- Discord: [0xchatblanc](https://discord.com/users/714807042648571995)
+- Discord: [ch4tbl4nc](https://discord.com/users/1421478562392834171)
 
 ## Disclaimer
 
