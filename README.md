@@ -32,7 +32,7 @@ VulnScan is a powerful asynchronous network vulnerability scanner that combines 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vulnscan.git
+git clone https://github.com/ch4tbl4nc/vulnscan.git
 cd vulnscan
 ```
 
@@ -119,7 +119,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- GitHub: [0xchatblanc](https://github.com/0xchatblanc)
+- GitHub: [0xchatblanc](https://github.com/ch4tbl4nc)
 - Discord: [ch4tbl4nc](https://discord.com/users/1421478562392834171)
 
 ## Disclaimer
