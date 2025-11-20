@@ -119,7 +119,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- GitHub: [0xchatblanc](https://github.com/ch4tbl4nc)
+- GitHub: [ch4tbl4nc](https://github.com/ch4tbl4nc)
 - Discord: [ch4tbl4nc](https://discord.com/users/1421478562392834171)
 
 ## Disclaimer
