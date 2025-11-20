@@ -640,8 +640,8 @@ def print_banner() -> None:
  ║   {color_text}╚═══╝   ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝{Fore.RESET}{color_box} ║
  ╚════════════════════════════════════════════════════════════════════════╝
  ╔═══════════════════════╗
- ║ {color_text}Github : 0xchatblanc{Fore.RESET}{color_box}  ║
- ║ {color_text}Discord : 0xchatblanc{Fore.RESET}{color_box} ║
+ ║ {color_text}Github : ch4tbl4nc{Fore.RESET}{color_box}  ║
+ ║ {color_text}Discord : ch4tbl4nc{Fore.RESET}{color_box} ║
  ╚═══════════════════════╝
     """
     print(f"{color_box}{banner}{Style.RESET_ALL}")
